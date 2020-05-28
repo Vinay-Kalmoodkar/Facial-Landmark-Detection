@@ -1,0 +1,1 @@
+This folder contains Training images
